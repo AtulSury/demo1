@@ -1,3 +1,5 @@
+
+//It is an prime number code
 import java.util.*;
 class Prime{
 public static void main(String[] args) {
